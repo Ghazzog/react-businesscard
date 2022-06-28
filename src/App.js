@@ -13,7 +13,9 @@ function App() {
       <div className="bodyContent">
         <h2 className="name"> Hippo Alpha</h2>
         <h3 className="title"> React Guru</h3>
+        <a href="https://www.renegadehippos.com" target="_blank" rel="noopener noreferrer" className="hyperlink">
         <p2 className="website"> www.renegadehippos.com</p2>
+        </a>
         <div className="button-wrapper">
         <a href="mailto:renegadehippos@protonmail.com" target="_blank" rel="noopener noreferrer">
         <button className="email-button">Email</button>

@@ -32,6 +32,9 @@
   color: #F3BF99;
   margin: 3px;
 }
+.hyperlink{
+  text-decoration: none;
+}
 .website{
   margin: 3px;
   color: #F5F5F5;
